@@ -1,10 +1,5 @@
 # Mybatis-Plus 实战教程
 
-- 作者  小陈 
-- 微信 chenxu521600
-- B站 编程不良人  |  百知教育
-- 资料 http://www.baizhiedu.xin
-
 ## 1.什么是Mybatis-Plus
 
 ### 1.1 什么是mybatis-plus
