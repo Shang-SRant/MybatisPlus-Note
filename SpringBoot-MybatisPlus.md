@@ -70,11 +70,12 @@ public class MybatisApplication {
 #### 3.编写配置文件
 
 ```properties
+#MyBatis-Plus
 spring.datasource.type=com.alibaba.druid.pool.DruidDataSource
-spring.datasource.driver-class-name=com.mysql.jdbc.Driver
-spring.datasource.url=jdbc:mysql://localhost:3306/mybatis-plus?characterEncoding=UTF-8
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.url=jdbc:mysql://localhost:3306/mybatis-plus?characterEncoding=UTF-8&serverTimezone=UTC
 spring.datasource.username=root
-spring.datasource.password=root
+spring.datasource.password=7512210025Ss.
 
 logging.level.root=info
 logging.level.com.baizhi.dao=debug
